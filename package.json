@@ -20,9 +20,9 @@
   },
   "dependencies": {
     "@parcel/plugin": "^2.0.0-beta.1",
-    "@parcel/source-map": "^2.0.0-alpha.4.13",
+    "@parcel/source-map": "2.0.0-alpha.4.21",
     "@parcel/utils": "^2.0.0-beta.1",
-    "svelte": "^3.24.0"
+    "svelte": "^3.0.0"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
